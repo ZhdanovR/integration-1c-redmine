@@ -20,6 +20,8 @@ d8966fa6-1f9f-4801-9127-a4dfcc3c7b72-->und\d8966fa6-1f9f-4801-9127-a4dfcc3c7b72
 d8966fa6-1f9f-4801-9127-a4dfcc3c7b72.0-->Form\ФормаРедактирования
 fb4f8a6b-158a-4798-a08a-cc7cf6f09f01.0\info-->und\fb4f8a6b-158a-4798-a08a-cc7cf6f09f01.0\info
 fb4f8a6b-158a-4798-a08a-cc7cf6f09f01.0\text-->ObjectModule.bsl
+fc94491e-7a7d-44bf-a0fc-8c72d147748a-->und\fc94491e-7a7d-44bf-a0fc-8c72d147748a
+fc94491e-7a7d-44bf-a0fc-8c72d147748a.0-->und\fc94491e-7a7d-44bf-a0fc-8c72d147748a.0
 root-->und\root
 version-->und\version
 versions-->und\versions
